@@ -1,0 +1,87 @@
+.border {
+    border-style: solid;
+    border-width: 1px;
+    width: 25%;
+    padding: 5px;
+    margin: 20px;
+}
+
+.borderBig {
+    width: 90%;
+    padding: 5px;
+    margin: 20px;
+    border: 1px solid black;
+}
+
+.insertDiv {
+    padding: 5px;
+    margin: 10px;
+    width: 90%;
+}
+.insertInput {
+    float: right;
+    width: 70%;
+}
+
+.plateInput{
+    width: 100%;
+}
+.colorInput{
+    width: 100%;
+}
+.vinInput{
+    width: 100%;
+}
+.yearInput{
+    width: 100%;
+}
+.makeSelect{
+    width: 100%;
+}
+.modelSelect{
+    width: 100%;
+}
+.plateTd{
+    width: 10%;
+}
+.colorTd{
+    width: 5%;
+}
+.vinTd{
+    width: 20%;
+}
+.yearTd{
+    width: 5%;
+}
+.makeTd{
+    width: 25%;
+}
+.modelTd{
+    width: 25%;
+}
+.updateButtonTd{
+    width: 5%;
+}
+.deleteButtonTd{
+    width: 5%;
+}
+
+#updateTable {
+    width: 100%;
+}
+
+#selectMake{
+    width: 100%;
+}
+#selectModel{
+    width: 100%;
+}
+tr{
+
+}
+td {
+
+}
+p{
+
+}
